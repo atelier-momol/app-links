@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [ "DT5K4R2J8T.com.momol.atelier-momol-App" ],
+        "paths": [ "/open/*" ]
+      }
+    ]
+  }
+}
